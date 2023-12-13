@@ -171,5 +171,39 @@
       "price": 8800,
       "tags": "安卓,一般螢幕"
     }
+  ],
+  "favorites": [
+    {
+      "id": "1",
+      "fav": true
+    },
+    {
+      "id": "1",
+      "fav": false
+    },
+    {
+      "id": "1",
+      "fav": true
+    },
+    {
+      "id": "1",
+      "fav": false
+    },
+    {
+      "id": "1",
+      "fav": false
+    },
+    {
+      "id": "1",
+      "fav": false
+    },
+    {
+      "id": "1",
+      "fav": false
+    },
+    {
+      "id": "1",
+      "fav": false
+    }
   ]
 }

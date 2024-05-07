@@ -108,7 +108,7 @@
   ],
   "products": [
     {
-      "id": "1",
+      "id": 1,
       "picture": "https://via.placeholder.com/150",
       "stock": 5,
       "name": "iPhone 12 Pro",
@@ -116,7 +116,7 @@
       "tags": "蘋果,大螢幕"
     },
     {
-      "id": "2",
+      "id": 2,
       "picture": "https://via.placeholder.com/150",
       "stock": 5,
       "name": "iPhone 12",
@@ -124,7 +124,7 @@
       "tags": "蘋果,小螢幕"
     },
     {
-      "id": "3",
+      "id": 3,
       "picture": "https://via.placeholder.com/150",
       "stock": 10,
       "name": "iPhone SE",
@@ -132,7 +132,7 @@
       "tags": "蘋果,小螢幕"
     },
     {
-      "id": "4",
+      "id": 4,
       "picture": "https://via.placeholder.com/150",
       "stock": 10,
       "name": "iPhone XS",
@@ -140,7 +140,7 @@
       "tags": "蘋果,大螢幕"
     },
     {
-      "id": "5",
+      "id": 5,
       "picture": "https://via.placeholder.com/150",
       "stock": 6,
       "name": "Google Pixel 5",
@@ -148,7 +148,7 @@
       "tags": "安卓,大螢幕"
     },
     {
-      "id": "6",
+      "id": 6,
       "picture": "https://via.placeholder.com/150",
       "stock": 6,
       "name": "Google Pixel 4",
@@ -156,7 +156,7 @@
       "tags": "安卓,小螢幕"
     },
     {
-      "id": "7",
+      "id": 7,
       "picture": "https://via.placeholder.com/150",
       "stock": 6,
       "name": "紅米",
@@ -164,7 +164,7 @@
       "tags": "安卓,一般螢幕"
     },
     {
-      "id": "8",
+      "id": 8,
       "picture": "https://via.placeholder.com/150",
       "stock": 1,
       "name": "黃米",

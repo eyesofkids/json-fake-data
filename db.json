@@ -275,7 +275,8 @@
       "stock": 5,
       "name": "iPhone 12 Pro",
       "price": 25000,
-      "tags": "蘋果,大螢幕"
+      "tags": "蘋果,大螢幕",
+      "brand": "Apple"
     },
     {
       "id": 2,
@@ -283,7 +284,8 @@
       "stock": 5,
       "name": "iPhone 12",
       "price": 15000,
-      "tags": "蘋果,小螢幕"
+      "tags": "蘋果,小螢幕",
+      "brand": "Apple"
     },
     {
       "id": 3,
@@ -291,7 +293,8 @@
       "stock": 10,
       "name": "iPhone SE",
       "price": 12500,
-      "tags": "蘋果,小螢幕"
+      "tags": "蘋果,小螢幕",
+      "brand": "Apple"
     },
     {
       "id": 4,
@@ -299,7 +302,8 @@
       "stock": 10,
       "name": "iPhone XS",
       "price": 22000,
-      "tags": "蘋果,大螢幕"
+      "tags": "蘋果,大螢幕",
+      "brand": "Apple"
     },
     {
       "id": 5,
@@ -307,7 +311,8 @@
       "stock": 6,
       "name": "Google Pixel 5",
       "price": 17000,
-      "tags": "安卓,大螢幕"
+      "tags": "安卓,大螢幕",
+      "brand": "Google"
     },
     {
       "id": 6,
@@ -315,7 +320,8 @@
       "stock": 6,
       "name": "Google Pixel 4",
       "price": 15500,
-      "tags": "安卓,小螢幕"
+      "tags": "安卓,小螢幕",
+      "brand": "Google"
     },
     {
       "id": 7,
@@ -323,7 +329,9 @@
       "stock": 6,
       "name": "紅米",
       "price": 9500,
-      "tags": "安卓,一般螢幕"
+      "tags": "安卓,一般螢幕",
+      "brand": "Xiaomi"
+
     },
     {
       "id": 8,
@@ -331,7 +339,8 @@
       "stock": 1,
       "name": "黃米",
       "price": 8800,
-      "tags": "安卓,一般螢幕"
+      "tags": "安卓,一般螢幕",
+      "brand": "Xiaomi"
     }
   ],
   "favorites": [
